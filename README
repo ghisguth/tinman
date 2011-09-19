@@ -1,0 +1,15 @@
+tinman
+=======================
+
+Tinman is console application based on Tin Man mini-series promotional flash.
+It plays ambient music along with voices from movie.
+
+Imdb: http://www.imdb.com/title/tt0910812/
+Promo flash: http://www.syfy.com/tinman/oz/
+
+NOTE: All resources taken from original swf files.
+
+Dependencies:
+
+* Boost (thread, system, filesystem)
+* FMOD - http://fmod.org/
