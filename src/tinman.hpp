@@ -1,3 +1,8 @@
+/* tinman.hpp
+ * This file is a part of tinman project
+ * Copyright (c) tinman authors (see file `COPYRIGHT` for the license)
+ */
+
 #pragma once
 
 #include <vector>

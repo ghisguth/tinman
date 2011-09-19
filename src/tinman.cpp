@@ -1,3 +1,8 @@
+/* tinman.cpp
+ * This file is a part of tinman project
+ * Copyright (c) tinman authors (see file `COPYRIGHT` for the license)
+ */
+
 #include "tinman.hpp"
 
 #include <iostream>
